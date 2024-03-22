@@ -5,7 +5,7 @@ It's a DEMO version.<br><br>
 You can play it on the link bellow:<br>
 https://pixelikas.itch.io/night-creatures-the-duel<br>
 
-NW.dll needed to run the build.
+NW.dll needed to run the build.<br>
 https://www.dllme.com/dll/files/nw
 
 ![print-night](https://github.com/Pixelikas/Night-Creatures/assets/67108278/ddadf080-ecdb-433d-ac67-6817fbb863cb)
